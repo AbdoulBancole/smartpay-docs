@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksmartpay_docs=globalThis.webpackChunksmartpay_docs||[]).push([[669],{2528:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/smartpay-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

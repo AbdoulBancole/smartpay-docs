@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksmartpay_docs=globalThis.webpackChunksmartpay_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/smartpay-docs/blog","blogTitle":"Blog","authorsListPath":"/smartpay-docs/blog/authors"}')}}]);
